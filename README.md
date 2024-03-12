@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinay Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on Live News website - [NewsEater](https://news-eater.vercel.app)
+- 🔭 I’m currently looking for an opportunity as a React developer
 
 - 🌱 I’m currently learning **NextJs**
 
